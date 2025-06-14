@@ -1,0 +1,10 @@
+openai
+python-dotenv
+dotenv
+streamlit
+pandas
+qdrant-client
+PIL
+base64
+os
+datetime
